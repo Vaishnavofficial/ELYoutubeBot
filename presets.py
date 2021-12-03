@@ -10,7 +10,7 @@ EL Youtube Downloader Bot Help:
 
 >> Use inline search for selecting video or send a youtube link to start download.
 
-Join <a href='https://t.me/ELUpdates'>Update Channel</a> | Github <a href='https://github.com/EL-Coders'>Link</a>   
+Join <a href='https://t.me/thugbots'>Update Channel</a>   
     """
     WELCOME_MSG = "Hi {},\nI'm a simple Youtube Downloader Bot.\nAlso, you can use me to search videos inline."
     OPTIONS_TXT = "I am a youtube downloader bot.\nYou can use me to search videos inline."
