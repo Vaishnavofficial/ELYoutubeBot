@@ -32,7 +32,7 @@
 * `API_ID`      Your API ID from my.telegram.org
 * `BOT_TOKEN`   Your bot token from @BotFather.
 * `AUTH_USERS`  Create a list of User Ids to use this bot. (If kept empty, bot will be in public domain)
-* `SUDO_USERS`  Create a list of Super User Ids to use this bot. (For Broadcasting )
+* `SUDO_USERS`  Create a list of Super Users Ids to use this bot. (For Broadcasting )
 * `DB_URI`  (Mandatory when deployed in local)
 
 ## Deploy Locally
